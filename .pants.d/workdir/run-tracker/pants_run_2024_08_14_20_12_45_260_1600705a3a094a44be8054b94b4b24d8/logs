@@ -1,0 +1,9 @@
+20:12:45.31 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `test` goal
+
+BuildFileSyntaxError: Error parsing BUILD file src/tests/dir/subdir/BUILD:6: EOL while scanning string literal
+  files(name="csv_files", sources=["src/tests/test_data/csv/*.csv])
+                                                                   ^
+

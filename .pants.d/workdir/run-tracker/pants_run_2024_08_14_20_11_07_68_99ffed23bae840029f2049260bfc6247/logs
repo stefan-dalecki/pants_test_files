@@ -1,0 +1,3 @@
+20:11:29.35 [INFO] Completed: Generate lockfile for python-default
+20:11:29.36 [INFO] notify invalidation: cleared 1 and dirtied 174 nodes for: {"", "3rdparty"}
+20:11:29.36 [INFO] Wrote lockfile for the resolve `python-default` to 3rdparty/python/default.lock

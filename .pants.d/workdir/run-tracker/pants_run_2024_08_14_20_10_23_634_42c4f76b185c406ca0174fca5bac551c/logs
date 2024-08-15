@@ -1,0 +1,11 @@
+20:10:23.68 [INFO] notify invalidation: cleared 1 and dirtied 50 nodes for: {".tmp6UZBpi.hardlink_canary", ""}
+20:10:23.68 [INFO] notify invalidation: cleared 1 and dirtied 50 nodes for: {"", ".tmp6UZBpi.hardlink_canary"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"src/tests", "src/tests/BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"src/tests/BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"src/tests", "src/tests/BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 1 and dirtied 23 nodes for: {"src/tests/dir/subdir", "src/tests/dir/subdir/BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"src/tests/dir/subdir/BUILD"}
+20:10:23.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"src/tests/dir/subdir", "src/tests/dir/subdir/BUILD"}
