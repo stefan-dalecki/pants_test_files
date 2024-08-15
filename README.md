@@ -4,7 +4,7 @@ An illustrated question about pants file pathing
 
 ## Context
 
-This repo is a minimal reprodueable example of an issue that I am facing in my private, commercial codebase (i.e. my day job).
+This repo is a minimal reproduceable example of an issue that I am facing in my private, commercial codebase (i.e. my day job).
 
 I have unit tests located deep-ish within nested directories. In this example, see `src/tests/dir/subdir/test_example.py`. This test requires data kept in an entirely separate directory, namely `src/tests/test_data/csv/shape_example.csv`. I would like to be able to reference this csv file within `test_example.py`
 
